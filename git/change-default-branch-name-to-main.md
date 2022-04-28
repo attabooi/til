@@ -1,6 +1,7 @@
 
 ### 1. Run **Git Bash**
 
+<br>
 
 ```gitbash
 $ git config --global init.defaultBranch main
