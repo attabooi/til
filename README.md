@@ -1,3 +1,5 @@
 # Today I Learned 🤪
 
-Trying to commit for a steady stuff.
+Just because I can't trust my <span style="color: #FFC9F5"> boorain.
+
+
