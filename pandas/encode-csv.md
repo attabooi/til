@@ -1,6 +1,6 @@
 # Encode CSV Files
 
-Korean should encoded in UTF-8 form to read in python. 
+Korean should be encoded in UTF-8 form to read in python. 
 
 And there is a way to encode and read csv files.
 
