@@ -12,10 +12,10 @@ There are several steps for having a token.
 
 <br>
 
-1. <span style="color:rgb(241,196,15)">Inputs ID and PW</span>
-2. <span style="color:rgb(181,21,21)">Server transfer PW to hashed PW</span>
-3. <span style="color:rgb(171,130,221)">Compare to DB PW</span>
-4. <span style="color:rgb(34,202,224)">If correct, giver a token to user</span>
+1. <span style="color:rgb(241,196,15)">User inputs ID and PW</span>
+2. <span style="color:rgb(181,21,21)">Server transfers PW to hashed PW</span>
+3. <span style="color:rgb(171,130,221)">Server compares it to PW in DB</span>
+4. <span style="color:rgb(34,202,224)">If correct, server gives a token to user</span>
 
 <br>
 <br>
