@@ -17,7 +17,7 @@ There are several steps for having a token.
 3. <span style="color:rgb(171,130,221)">Server compares it to PW in DB</span>
 4. <span style="color:rgb(34,202,224)">If correct, server gives a token to user</span>
 
-<br>
+
 <br>
 <br>
 
