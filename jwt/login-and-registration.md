@@ -21,6 +21,8 @@ There are several steps for having a token.
 <br>
 <br>
 
+![image](https://user-images.githubusercontent.com/99746319/167427916-ab8fcccb-6523-444e-a393-bb65b7841f1f.png)
+
 ## python code
 
 ```python
