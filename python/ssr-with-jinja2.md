@@ -2,7 +2,7 @@
 
 <br>
 
-This work is about building a profile pages on web based on local files. So it is not a fine one. 
+This work is about building a profile pages on web based on local files. 
 
 However, I think the logic I used from this work is worth writing down on TIL for beginners like me.
 
