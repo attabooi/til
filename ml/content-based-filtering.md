@@ -94,8 +94,6 @@ def content_recommendation(int):
     for i in range(0, len(df['Genre'])):
         df['token'][i] = mecab.parse(df['Genre'][i]).split()
         df['token'][i].extend(mecab.parse(df['Tags'][i]).split())
-
-    # 유사도와 상관없을 것 같은 요소 제거해주기
     
     list1 = [',','.','s',"'",'"','-','…','(',')','년']
 
